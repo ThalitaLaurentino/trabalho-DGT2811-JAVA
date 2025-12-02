@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## DGT2811 Desenvolvimento Back-End Corporativo com Java E Cloud
 #### Thalita P. Alexandre Laurentino - 202401412341- Terceiro Semestre
 #### Campus Estácio São José - SC 
@@ -28,3 +29,6 @@ A comunicação é feita por injeção de dependência. O Servlet usa @EJB para 
 Conclusão
 Para realizar essa prática, primeiro fiz um banco de dados no SQL Server Studio, onde coloquei todas as informações necessárias para o sistema. Esse banco foi utilizado diretamente no projeto, integrado ao NetBeans por meio do JPA. A partir daí, os EJBs aplicaram as regras de negócio e os Servlets fizeram a parte de controle. Trabalhar com essas tecnologias juntas deixou tudo mais organizado e ajudou a entender como cada camada se conecta. No final, o ambiente do NetBeans facilitou muito todo o processo e deixou o desenvolvimento mais simples e claro.
 
+=======
+### trabalho-DGT2811-JAVA
+>>>>>>> bacae10985c66149ef26dee88676e713813b8eaf
