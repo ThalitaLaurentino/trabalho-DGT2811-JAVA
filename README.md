@@ -5,7 +5,7 @@
 -------
 
 
-Procedimento 1 - Camadas de persistência e Controle 
+#### Procedimento 1 - Camadas de persistência e Controle 
 
 
 1. Organização de um projeto corporativo no NetBeans
@@ -25,6 +25,6 @@ Servlets são classes que recebem as requisições Web e enviam respostas. O Net
 5. Comunicação entre Servlets e Session Beans
 A comunicação é feita por injeção de dependência. O Servlet usa @EJB para acessar um Session Bean direto do pool e chamar seus métodos.
 
-Conclusão
+#### Conclusão
 Para realizar essa prática, primeiro fiz um banco de dados no SQL Server Studio, onde coloquei todas as informações necessárias para o sistema. Esse banco foi utilizado diretamente no projeto, integrado ao NetBeans por meio do JPA. A partir daí, os EJBs aplicaram as regras de negócio e os Servlets fizeram a parte de controle. Trabalhar com essas tecnologias juntas deixou tudo mais organizado e ajudou a entender como cada camada se conecta. No final, o ambiente do NetBeans facilitou muito todo o processo e deixou o desenvolvimento mais simples e claro.
 
